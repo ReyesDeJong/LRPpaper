@@ -1,4 +1,4 @@
-#Repo moved to https://github.com/ReyesDeJong/LRPinSupernovae, because it is a more appropriate name.
+# Repo moved to https://github.com/ReyesDeJong/LRPinSupernovae, because it is a more appropriate name.
 
 # Adaptation of LRP framework for Tensorflow
 
