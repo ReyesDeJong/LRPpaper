@@ -1,3 +1,5 @@
+#Repo moved to https://github.com/ReyesDeJong/LRPinSupernovae, because it is a more appropriate name.
+
 # Adaptation of LRP framework for Tensorflow
 
 An adaptation to the Layer-wise Relevance Propagation (LRP) algorithm developed by **Lapuschkin et al., 2016** on their work **'The LRP Toolbox for Artificial Neural Networks' for the 'Journal of Machine Learning Research'**.
